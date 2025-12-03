@@ -1,7 +1,7 @@
 ## Hi 👋
 
 I'm a hobbyist developer who enjoys working with technology and software. Home Assistant has rekindled my interest in it.
-I used to program websites with HTML, CSS, and JavaScript. Therefore, some programming languages ​​are familiar to me.
+I used to program websites with HTML, CSS, and JavaScript. Therefore, some programming languages ​​are familiar to me other i have to learn.
 
 | Projekt | Beschreibung | Sprache |
 |--------|--------------|---------|
