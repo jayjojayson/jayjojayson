@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi 👋
 
-<!--
-**jayjojayson/jayjojayson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a hobbyist developer who enjoys working with technology. Home Assistant has rekindled my interest in it.
+I used to program websites with HTML, CSS, and JavaScript. Therefore, some programming languages ​​are familiar to me.
 
-Here are some ideas to get you started:
+| Projekt | Beschreibung | Sprache |
+|--------|--------------|---------|
+| [Victrom VRM API](https://github.com/jayjojayson/hass-victron-vrm-api) | Victron Api Integration für Home Assistant| Python |
+| [HA_homedashboard](https://github.com/jayjojayson/HA_homedashboard) | Homedashboard Cards und Layout Code | YAML, JavaScript |
+| [HA-Entity-Analyzer](https://github.com/jayjojayson/HA-Entity-Analyzer) | Analyse von exportierten CSVs aus Home Assistant | Python |
+| [HomeAssistant-Tools_Utilities_Gadgets](https://github.com/jayjojayson/HomeAssistant-Tools_Utilities_Gadgets) | Sammlung von Tools und Gadgets für Home Assistant | YAML, CSS / JS |
+| [blueprint-auto-luftreiniger](https://github.com/jayjojayson/blueprint-auto-luftreiniger) | Automatischer Luftreiniger basierend auf Luftwert | — |
+| [ESP3D-WEBUI](https://github.com/jayjojayson/ESP3D-WEBUI) | Web UI für ESP8266-Boards (3D Drucker) | JavaScript |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
