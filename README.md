@@ -75,7 +75,7 @@ I used to build websites with HTML, CSS, and JavaScript – so some programming 
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=jayjojayson&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=jayjojayson&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=jayjojayson&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
