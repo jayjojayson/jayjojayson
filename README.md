@@ -50,7 +50,8 @@ I used to build websites with HTML, CSS, and JavaScript – so some programming 
 ### 🔩 IoT / Hardware  
 | Projekt | Beschreibung | Sprache |
 |--------|--------------|---------|
-| [Crystal Cube](https://github.com/jayjojayson/geekmagic-helloCubic-lite-esp-home) | simple Code to control geekmagic HelloCubic in HA | ESPHome |
+| [Crystal Cube](https://github.com/jayjojayson/HomeAssistant-Tools_Utilities_Gadgets/blob/main/ESP-Projekte%20-%20ESPHome/GeekMagic%20HelloCubic%20Crytal%20Cube%20-%20ESPHome/GeekMagic%20HelloCubic%20Crytal%20Cube.md) | simple Code to control geekmagic HelloCubic in HA | ESPHome |
+| [CYD Display](https://github.com/jayjojayson/HomeAssistant-Tools_Utilities_Gadgets/blob/main/ESP-Projekte%20-%20ESPHome/CYD-Cheap-Yellow-Display%20for%20Home%20Assistant%20-%20ESPHome/CYD-Cheap-Yellow-Display_for_Home_Assistant.md) | CYD Display for Home Assistant with Touch | ESPHome |
 | [ESP3D-WEBUI](https://github.com/jayjojayson/ESP3D-WEBUI) | Web UI für ESP8266-basierte 3D-Drucker Controller | JavaScript |
 
 ---
