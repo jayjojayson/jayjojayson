@@ -50,6 +50,7 @@ I used to build websites with HTML, CSS, and JavaScript – so some programming 
 ### 🔩 IoT / Hardware  
 | Projekt | Beschreibung | Sprache |
 |--------|--------------|---------|
+| [Crystal Cube](https://github.com/jayjojayson/geekmagic-helloCubic-lite-esp-home) | simple Code to control geekmagic HelloCubic in HA | ESPHome |
 | [ESP3D-WEBUI](https://github.com/jayjojayson/ESP3D-WEBUI) | Web UI für ESP8266-basierte 3D-Drucker Controller | JavaScript |
 
 ---
