@@ -36,7 +36,7 @@ I used to build websites with HTML, CSS, and JavaScript – so some programming 
 
 ## 📦 Meine Projekte / My Projects
 
-### 🔧 Home Assistant / Automationen  
+### 🔧 Home Assistant / Card / Integration  
 | Projekt | Beschreibung | Sprache |
 |--------|--------------|---------|
 | [Victrom VRM API](https://github.com/jayjojayson/hass-victron-vrm-api) | Victron API Integration für Home Assistant | Python |
@@ -47,7 +47,7 @@ I used to build websites with HTML, CSS, and JavaScript – so some programming 
 | [HomeAssistant-Tools_Utilities_Gadgets](https://github.com/jayjojayson/HomeAssistant-Tools_Utilities_Gadgets) | Sammlung nützlicher Tools & Gadgets für Home Assistant | YAML, CSS / JavaScript |
 | [Blueprint-auto-luftreiniger](https://github.com/jayjojayson/blueprint-auto-luftreiniger) | Automatischer Luftreiniger basierend auf Luftwerten | YAML |
 
-### 🔩 IoT / Hardware  
+### 🔩 IoT / Hardware / ESPHome  
 | Projekt | Beschreibung | Sprache |
 |--------|--------------|---------|
 | [Crystal Cube](https://github.com/jayjojayson/HomeAssistant-Tools_Utilities_Gadgets/blob/main/ESP-Projekte%20-%20ESPHome/GeekMagic%20HelloCubic%20Crytal%20Cube%20-%20ESPHome/GeekMagic%20HelloCubic%20Crytal%20Cube.md) | simple Code to control geekmagic HelloCubic in HA | ESPHome |
