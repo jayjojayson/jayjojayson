@@ -40,6 +40,7 @@ I used to build websites with HTML, CSS, and JavaScript – so some programming 
 | Projekt | Beschreibung | Sprache |
 |--------|--------------|---------|
 | [Victrom VRM API](https://github.com/jayjojayson/hass-victron-vrm-api) | Victron API Integration für Home Assistant | Python |
+| [Detailed Charts Panel](https://github.com/jayjojayson/detailed-charts-panel) | Detailed Charts für Home Assistant | JavaScript |
 | [Sun Position Card](https://github.com/jayjojayson/Sun-Position-Card) | Custom Sun-Position-Card für HA | JavaScript |
 | [BMS Battery Cells Card](https://github.com/jayjojayson/bms-battery-cells-card) | Custom BMS Battery Cells Card für HA | JavaScript |
 | [HA_homedashboard](https://github.com/jayjojayson/HA_homedashboard) | Home Assistant Dashboard Cards & Layouts | YAML, JavaScript |
