@@ -106,6 +106,8 @@ If you like one of my projects or it has been helpful to you:
 📬 Questions? → Issues in the respective repositories are always welcome.
 </div>
 
+[![Support](https://img.shields.io/badge/%20-Support%20Me-steelblue?style=flat&logo=paypal&logoColor=white)](https://www.paypal.me/quadFlyerFW)
+
 ---
 
 <div align="center">
