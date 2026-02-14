@@ -113,7 +113,7 @@ I used to build websites with HTML, CSS, and JavaScript – so some programming 
 <td width="40%">
   
 ### 📑 HA Entity Analyzer Tool  
-<a href="https://github.com/jayjojayson/HA-Entity-Analyzer">Analyze exported Home Assistant entities & CSV files</a>  
+<a href="https://github.com/jayjojayson/HA-Entity-Analyzer">Analyze exported HA entities & CSV files</a>  
 
 ![Python](https://img.shields.io/badge/Python-Tool-blue)
 
@@ -161,7 +161,7 @@ I used to build websites with HTML, CSS, and JavaScript – so some programming 
 <td width="40%">
 
 ### 💎 Crystal Cube  
-<a href="https://github.com/jayjojayson/HomeAssistant-Tools_Utilities_Gadgets/blob/main/ESP-Projekte%20-%20ESPHome/GeekMagic%20HelloCubic%20Crytal%20Cube%20-%20ESPHome/GeekMagic%20HelloCubic%20Crytal%20Cube.md">GeekMagic HelloCubic via ESPHome & Home Assistant</a>  
+<a href="https://github.com/jayjojayson/HomeAssistant-Tools_Utilities_Gadgets/blob/main/ESP-Projekte%20-%20ESPHome/GeekMagic%20HelloCubic%20Crytal%20Cube%20-%20ESPHome/GeekMagic%20HelloCubic%20Crytal%20Cube.md">Control GeekMagic HelloCubic via ESPHome & Home Assistant</a>  
 
 ![ESPHome](https://img.shields.io/badge/ESPHome-IoT-green)
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-Device-41BDF5)
