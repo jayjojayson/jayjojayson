@@ -34,26 +34,210 @@ I used to build websites with HTML, CSS, and JavaScript – so some programming 
 ---
 
 
-## 📦 Meine Projekte / My Projects
+## 📦 Meine Projekte / My Projects   
 
-### 🔧 Home Assistant / Card / Integration  
-| Projekt | Beschreibung | Sprache |
-|--------|--------------|---------|
-| [Victrom VRM API](https://github.com/jayjojayson/hass-victron-vrm-api) | Victron API Integration für Home Assistant | Python |
-| [Detailed Charts Panel](https://github.com/jayjojayson/detailed-charts-panel) | Detailed Charts für Home Assistant | JavaScript |
-| [Sun Position Card](https://github.com/jayjojayson/Sun-Position-Card) | Custom Sun-Position-Card für HA | JavaScript |
-| [BMS Battery Cells Card](https://github.com/jayjojayson/bms-battery-cells-card) | Custom BMS Battery Cells Card für HA | JavaScript |
-| [HA_homedashboard](https://github.com/jayjojayson/HA_homedashboard) | Home Assistant Dashboard Cards & Layouts | YAML, JavaScript |
-| [HA-Entity-Analyzer-Tool](https://github.com/jayjojayson/HA-Entity-Analyzer) | Analyse exportierter Home Assistant Entitäten & CSVs | Python |
-| [HomeAssistant-Tools_Utilities_Gadgets](https://github.com/jayjojayson/HomeAssistant-Tools_Utilities_Gadgets) | Sammlung nützlicher Tools & Gadgets für Home Assistant | YAML, CSS / JavaScript |
-| [Blueprint-auto-luftreiniger](https://github.com/jayjojayson/blueprint-auto-luftreiniger) | Automatischer Luftreiniger basierend auf Luftwerten | YAML |
+### 🔧 Home Assistant / Cards / Integrations  
+
+<table>
+<tr>
+<td width="40%">
+  
+### 🔋 Victrom VRM API  
+Victron API Integration  
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-Integration-41BDF5)
+
+<a href="https://github.com/jayjojayson/hass-victron-vrm-api">
+GitHub →  
+</a>
+</td>
+<td width="60%" align="center">
+<img src="https://github.com/jayjojayson/hass-victron-vrm-api/blob/main/docs/victron-vrm-api.png" width="40%"/>
+</td>
+</tr>
+<tr>
+<td width="40%">
+  
+### 📊 Detailed Charts Panel  
+Advanced chart visualizations 
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![Lovelace](https://img.shields.io/badge/Lovelace-Custom%20Card-ff69b4)
+
+<a href="https://github.com/jayjojayson/detailed-charts-panel">
+GitHub →  
+</a>
+</td>
+<td width="60%" align="center">
+<img src="https://github.com/jayjojayson/detailed-charts-panel/blob/main/docs/images/example1.png" width="40%"/>
+</td>
+</tr>
+<tr>
+<td width="40%">
+  
+### ☀ Sun Position Card  
+Custom Sun Position Card  
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![Lovelace](https://img.shields.io/badge/Lovelace-Custom%20Card-ff69b4)
+
+<a href="https://github.com/jayjojayson/Sun-Position-Card">
+GitHub →  
+</a>
+</td>
+<td width="60%" align="center">
+<img src="https://github.com/jayjojayson/Sun-Position-Card/blob/main/docs/sun-positiion-card4.png" width="40%"/>
+</td>
+</tr>
+<tr>
+<td width="40%">
+  
+### 🔋 BMS Battery Cells Card  
+Battery cell visualization  
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![Lovelace](https://img.shields.io/badge/Lovelace-Custom%20Card-ff69b4)
+
+<a href="https://github.com/jayjojayson/bms-battery-cells-card">
+GitHub →  
+</a>
+</td>
+<td width="60%" align="center">
+<img src="https://github.com/jayjojayson/bms-battery-cells-card/blob/main/docs/bms-battery-cells-card.png" width="40%"/>
+</td>
+</tr>
+<tr>
+<td width="40%">
+  
+### 🏠 HA_homedashboard  
+Dashboard layouts & cards  
+
+![YAML](https://img.shields.io/badge/YAML-Configuration-blueviolet)
+![JavaScript](https://img.shields.io/badge/JavaScript-UI-yellow)
+
+<a href="https://github.com/jayjojayson/HA_homedashboard">
+GitHub →  
+</a>
+</td>
+<td width="60%" align="center">
+<img src="https://github.com/jayjojayson/HA_homedashboard/blob/main/docs/images/HA_homedashboard_dashboard.png" width="40%"/>
+</td>
+</tr>
+<tr>
+<td width="40%">
+  
+### 📑 HA Entity Analyzer Tool  
+Analyze exported Home Assistant entities & CSV files  
+
+![Python](https://img.shields.io/badge/Python-Tool-blue)
+
+<a href="https://github.com/jayjojayson/HA-Entity-Analyzer">
+GitHub →
+</a>
+</td>
+<td width="60%" align="center">
+<img src="https://github.com/jayjojayson/HA-Entity-Analyzer/blob/main/docs/entity_analyzer_tool%20(4).png" width="40%"/>
+</td>
+</tr>
+<tr>
+<td width="40%">
+  
+### 🛠 HomeAssistant Tools & Gadgets  
+Collection of utilities and helpers for Home Assistant  
+
+![YAML](https://img.shields.io/badge/YAML-Config-blueviolet)
+![CSS](https://img.shields.io/badge/CSS-UI-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Logic-yellow)
+
+<a href="https://github.com/jayjojayson/HomeAssistant-Tools_Utilities_Gadgets">
+GitHub →  
+</a>
+</td>
+<td width="60%" align="center">
+—
+</td>
+</tr>
+
+<tr>
+<td width="40%">
+  
+### 🌬 Blueprint – Auto Luftreiniger  
+Automatic air purifier control based on air quality  
+
+![YAML](https://img.shields.io/badge/YAML-Blueprint-blueviolet)
+
+<a href="https://github.com/jayjojayson/blueprint-auto-luftreiniger">
+GitHub →  
+</a>
+</td>
+<td width="60%" align="center">
+—
+</td>
+</tr>
+</table>
+
 
 ### 🔩 IoT / Hardware / ESPHome  
-| Projekt | Beschreibung | Sprache |
-|--------|--------------|---------|
-| [Crystal Cube](https://github.com/jayjojayson/HomeAssistant-Tools_Utilities_Gadgets/blob/main/ESP-Projekte%20-%20ESPHome/GeekMagic%20HelloCubic%20Crytal%20Cube%20-%20ESPHome/GeekMagic%20HelloCubic%20Crytal%20Cube.md) | simple Code to control geekmagic HelloCubic in HA | ESPHome |
-| [CYD Display](https://github.com/jayjojayson/HomeAssistant-Tools_Utilities_Gadgets/blob/main/ESP-Projekte%20-%20ESPHome/CYD-Cheap-Yellow-Display%20for%20Home%20Assistant%20-%20ESPHome/CYD-Cheap-Yellow-Display_for_Home_Assistant.md) | CYD Display for Home Assistant with Touch | ESPHome |
-| [ESP3D-WEBUI](https://github.com/jayjojayson/ESP3D-WEBUI) | Web UI für ESP8266-basierte 3D-Drucker Controller | JavaScript |
+
+<table>
+<tr>
+<td width="40%">
+
+### 💎 Crystal Cube  
+Control GeekMagic HelloCubic via ESPHome & Home Assistant  
+
+![ESPHome](https://img.shields.io/badge/ESPHome-IoT-green)
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-Device-41BDF5)
+
+<a href="https://github.com/jayjojayson/HomeAssistant-Tools_Utilities_Gadgets/blob/main/ESP-Projekte%20-%20ESPHome/GeekMagic%20HelloCubic%20Crytal%20Cube%20-%20ESPHome/GeekMagic%20HelloCubic%20Crytal%20Cube.md">
+GitHub →  
+</a>
+
+</td>
+<td width="60%" align="center">
+<img src="https://raw.githubusercontent.com/jayjojayson/HomeAssistant-Tools_Utilities_Gadgets/main/ESP-Projekte%20-%20ESPHome/GeekMagic%20HelloCubic%20Crytal%20Cube%20-%20ESPHome/images/geekmagic-crystal-cube.jpeg" width="40%"/>
+</td>
+</tr>
+
+<tr>
+<td width="40%">
+
+### 🖥 CYD Display  
+Cheap Yellow Display with Touch for Home Assistant  
+
+![ESPHome](https://img.shields.io/badge/ESPHome-Touch%20Display-green)
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-Interface-41BDF5)
+
+<a href="https://github.com/jayjojayson/HomeAssistant-Tools_Utilities_Gadgets/blob/main/ESP-Projekte%20-%20ESPHome/CYD-Cheap-Yellow-Display%20for%20Home%20Assistant%20-%20ESPHome/CYD-Cheap-Yellow-Display_for_Home_Assistant.md">
+GitHub →  
+</a>
+
+</td>
+<td width="60%" align="center">
+<img src="https://private-user-images.githubusercontent.com/2683358/430665253-9f2a5c66-43f8-4f06-9fd0-677b60147c6e.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzEwNjQxOTcsIm5iZiI6MTc3MTA2Mzg5NywicGF0aCI6Ii8yNjgzMzU4LzQzMDY2NTI1My05ZjJhNWM2Ni00M2Y4LTRmMDYtOWZkMC02NzdiNjAxNDdjNmUucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDIxNCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjAyMTRUMTAxMTM3WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MTRkOWMyYTIxMjRlNWVmN2M4MTUzNjRiODcwYWJlZjFhYjBhMjdhODUwOWE1NTRjNmNhMGY1ODEzYzlkZWNmOCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.HMiWprKMz5ZXRx5gm9MEQ3zZQkglWEDfB5XSuErygtI" width="40%"/>
+</td>
+</tr>
+
+<tr>
+<td width="40%">
+
+### 🖨 ESP3D WebUI  
+Web UI for ESP8266-based 3D printer controllers  
+
+![JavaScript](https://img.shields.io/badge/JavaScript-WebUI-yellow)
+![ESP8266](https://img.shields.io/badge/ESP8266-Controller-red)
+
+<a href="https://github.com/jayjojayson/ESP3D-WEBUI">
+GitHub →
+</a>
+
+</td>
+<td width="60%" align="center">
+<img src="https://raw.githubusercontent.com/jayjojayson/ESP3D-WEBUI/2.1/images/print-progress.JPG" width="40%"/>
+</td>
+</tr>
+</table>
 
 ---
 <div align="center">
