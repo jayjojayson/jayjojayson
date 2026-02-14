@@ -43,14 +43,11 @@ I used to build websites with HTML, CSS, and JavaScript – so some programming 
 <td width="40%">
   
 ### 🔋 Victrom VRM API  
-Victron API Integration  
+<a href="https://github.com/jayjojayson/hass-victron-vrm-api">Victron API Integration</a>  
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-Integration-41BDF5)
 
-<a href="https://github.com/jayjojayson/hass-victron-vrm-api">
-GitHub →  
-</a>
 </td>
 <td width="60%" align="center">
 <img src="https://github.com/jayjojayson/hass-victron-vrm-api/blob/main/docs/victron-vrm-api.png" width="40%"/>
@@ -60,14 +57,11 @@ GitHub →
 <td width="40%">
   
 ### 📊 Detailed Charts Panel  
-Advanced chart visualizations 
+<a href="https://github.com/jayjojayson/detailed-charts-panel">Advanced chart visualizations</a> 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![Lovelace](https://img.shields.io/badge/Lovelace-Custom%20Card-ff69b4)
 
-<a href="https://github.com/jayjojayson/detailed-charts-panel">
-GitHub →  
-</a>
 </td>
 <td width="60%" align="center">
 <img src="https://github.com/jayjojayson/detailed-charts-panel/blob/main/docs/images/example1.png" width="40%"/>
@@ -77,14 +71,11 @@ GitHub →
 <td width="40%">
   
 ### ☀ Sun Position Card  
-Custom Sun Position Card  
+<a href="https://github.com/jayjojayson/Sun-Position-Card">Custom Sun Position Card</a>  
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![Lovelace](https://img.shields.io/badge/Lovelace-Custom%20Card-ff69b4)
 
-<a href="https://github.com/jayjojayson/Sun-Position-Card">
-GitHub →  
-</a>
 </td>
 <td width="60%" align="center">
 <img src="https://github.com/jayjojayson/Sun-Position-Card/blob/main/docs/sun-positiion-card4.png" width="40%"/>
@@ -94,14 +85,11 @@ GitHub →
 <td width="40%">
   
 ### 🔋 BMS Battery Cells Card  
-Battery cell visualization  
+<a href="https://github.com/jayjojayson/bms-battery-cells-card">Battery cell visualization</a>  
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![Lovelace](https://img.shields.io/badge/Lovelace-Custom%20Card-ff69b4)
 
-<a href="https://github.com/jayjojayson/bms-battery-cells-card">
-GitHub →  
-</a>
 </td>
 <td width="60%" align="center">
 <img src="https://github.com/jayjojayson/bms-battery-cells-card/blob/main/docs/bms-battery-cells-card.png" width="40%"/>
@@ -111,14 +99,11 @@ GitHub →
 <td width="40%">
   
 ### 🏠 HA_homedashboard  
-Dashboard layouts & cards  
+<a href="https://github.com/jayjojayson/HA_homedashboard">Dashboard layouts & cards</a>  
 
 ![YAML](https://img.shields.io/badge/YAML-Configuration-blueviolet)
 ![JavaScript](https://img.shields.io/badge/JavaScript-UI-yellow)
 
-<a href="https://github.com/jayjojayson/HA_homedashboard">
-GitHub →  
-</a>
 </td>
 <td width="60%" align="center">
 <img src="https://github.com/jayjojayson/HA_homedashboard/blob/main/docs/images/HA_homedashboard_dashboard.png" width="40%"/>
@@ -128,13 +113,10 @@ GitHub →
 <td width="40%">
   
 ### 📑 HA Entity Analyzer Tool  
-Analyze exported Home Assistant entities & CSV files  
+<a href="https://github.com/jayjojayson/HA-Entity-Analyzer">Analyze exported Home Assistant entities & CSV files</a>  
 
 ![Python](https://img.shields.io/badge/Python-Tool-blue)
 
-<a href="https://github.com/jayjojayson/HA-Entity-Analyzer">
-GitHub →
-</a>
 </td>
 <td width="60%" align="center">
 <img src="https://github.com/jayjojayson/HA-Entity-Analyzer/blob/main/docs/entity_analyzer_tool%20(4).png" width="40%"/>
@@ -144,15 +126,12 @@ GitHub →
 <td width="40%">
   
 ### 🛠 HomeAssistant Tools & Gadgets  
-Collection of utilities and helpers for Home Assistant  
+<a href="https://github.com/jayjojayson/HomeAssistant-Tools_Utilities_Gadgets">Collection of utilities & helpers for HA</a>  
 
 ![YAML](https://img.shields.io/badge/YAML-Config-blueviolet)
 ![CSS](https://img.shields.io/badge/CSS-UI-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Logic-yellow)
 
-<a href="https://github.com/jayjojayson/HomeAssistant-Tools_Utilities_Gadgets">
-GitHub →  
-</a>
 </td>
 <td width="60%" align="center">
 —
@@ -163,13 +142,10 @@ GitHub →
 <td width="40%">
   
 ### 🌬 Blueprint – Auto Luftreiniger  
-Automatic air purifier control based on air quality  
+<a href="https://github.com/jayjojayson/blueprint-auto-luftreiniger">Automatic air purifier control based on air quality</a>  
 
 ![YAML](https://img.shields.io/badge/YAML-Blueprint-blueviolet)
 
-<a href="https://github.com/jayjojayson/blueprint-auto-luftreiniger">
-GitHub →  
-</a>
 </td>
 <td width="60%" align="center">
 —
@@ -185,14 +161,10 @@ GitHub →
 <td width="40%">
 
 ### 💎 Crystal Cube  
-Control GeekMagic HelloCubic via ESPHome & Home Assistant  
+<a href="https://github.com/jayjojayson/HomeAssistant-Tools_Utilities_Gadgets/blob/main/ESP-Projekte%20-%20ESPHome/GeekMagic%20HelloCubic%20Crytal%20Cube%20-%20ESPHome/GeekMagic%20HelloCubic%20Crytal%20Cube.md">GeekMagic HelloCubic via ESPHome & Home Assistant</a>  
 
 ![ESPHome](https://img.shields.io/badge/ESPHome-IoT-green)
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-Device-41BDF5)
-
-<a href="https://github.com/jayjojayson/HomeAssistant-Tools_Utilities_Gadgets/blob/main/ESP-Projekte%20-%20ESPHome/GeekMagic%20HelloCubic%20Crytal%20Cube%20-%20ESPHome/GeekMagic%20HelloCubic%20Crytal%20Cube.md">
-GitHub →  
-</a>
 
 </td>
 <td width="60%" align="center">
@@ -204,14 +176,10 @@ GitHub →
 <td width="40%">
 
 ### 🖥 CYD Display  
-Cheap Yellow Display with Touch for Home Assistant  
+<a href="https://github.com/jayjojayson/HomeAssistant-Tools_Utilities_Gadgets/blob/main/ESP-Projekte%20-%20ESPHome/CYD-Cheap-Yellow-Display%20for%20Home%20Assistant%20-%20ESPHome/CYD-Cheap-Yellow-Display_for_Home_Assistant.md">Cheap Yellow Display with Touch for Home Assistant</a>  
 
 ![ESPHome](https://img.shields.io/badge/ESPHome-Touch%20Display-green)
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-Interface-41BDF5)
-
-<a href="https://github.com/jayjojayson/HomeAssistant-Tools_Utilities_Gadgets/blob/main/ESP-Projekte%20-%20ESPHome/CYD-Cheap-Yellow-Display%20for%20Home%20Assistant%20-%20ESPHome/CYD-Cheap-Yellow-Display_for_Home_Assistant.md">
-GitHub →  
-</a>
 
 </td>
 <td width="60%" align="center">
@@ -223,14 +191,10 @@ GitHub →
 <td width="40%">
 
 ### 🖨 ESP3D WebUI  
-Web UI for ESP8266-based 3D printer controllers  
+<a href="https://github.com/jayjojayson/ESP3D-WEBUI">Web UI for ESP8266-based 3D printer controllers</a>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-WebUI-yellow)
 ![ESP8266](https://img.shields.io/badge/ESP8266-Controller-red)
-
-<a href="https://github.com/jayjojayson/ESP3D-WEBUI">
-GitHub →
-</a>
 
 </td>
 <td width="60%" align="center">
