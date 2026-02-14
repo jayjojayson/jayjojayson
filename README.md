@@ -42,7 +42,7 @@ I used to build websites with HTML, CSS, and JavaScript – so some programming 
 <tr>
 <td width="40%">
   
-### 🔋 Victrom VRM API  
+#### 🔋 Victrom VRM API  
 <a href="https://github.com/jayjojayson/hass-victron-vrm-api">Victron API Integration</a>  
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
@@ -56,7 +56,7 @@ I used to build websites with HTML, CSS, and JavaScript – so some programming 
 <tr>
 <td width="40%">
   
-### 📊 Detailed Charts Panel  
+#### 📊 Detailed Charts Panel  
 <a href="https://github.com/jayjojayson/detailed-charts-panel">Advanced chart visualizations</a> 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
@@ -70,7 +70,7 @@ I used to build websites with HTML, CSS, and JavaScript – so some programming 
 <tr>
 <td width="40%">
   
-### ☀ Sun Position Card  
+#### ☀ Sun Position Card  
 <a href="https://github.com/jayjojayson/Sun-Position-Card">Custom Sun Position Card</a>  
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
@@ -84,7 +84,7 @@ I used to build websites with HTML, CSS, and JavaScript – so some programming 
 <tr>
 <td width="40%">
   
-### 🔋 BMS Battery Cells Card  
+#### 🔋 BMS Battery Cells Card  
 <a href="https://github.com/jayjojayson/bms-battery-cells-card">Battery cell visualization</a>  
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
@@ -98,7 +98,7 @@ I used to build websites with HTML, CSS, and JavaScript – so some programming 
 <tr>
 <td width="40%">
   
-### 🏠 HA_homedashboard  
+#### 🏠 HA_homedashboard  
 <a href="https://github.com/jayjojayson/HA_homedashboard">Dashboard layouts & cards</a>  
 
 ![YAML](https://img.shields.io/badge/YAML-Configuration-blueviolet)
@@ -112,7 +112,7 @@ I used to build websites with HTML, CSS, and JavaScript – so some programming 
 <tr>
 <td width="40%">
   
-### 📑 HA Entity Analyzer Tool  
+#### 📑 HA Entity Analyzer Tool  
 <a href="https://github.com/jayjojayson/HA-Entity-Analyzer">Analyze exported HA entities & CSV files</a>  
 
 ![Python](https://img.shields.io/badge/Python-Tool-blue)
@@ -125,7 +125,7 @@ I used to build websites with HTML, CSS, and JavaScript – so some programming 
 <tr>
 <td width="40%">
   
-### 🛠 HomeAssistant Tools & Gadgets  
+#### 🛠 HomeAssistant Tools & Gadgets  
 <a href="https://github.com/jayjojayson/HomeAssistant-Tools_Utilities_Gadgets">Collection of utilities & helpers for HA</a>  
 
 ![YAML](https://img.shields.io/badge/YAML-Config-blueviolet)
@@ -141,7 +141,7 @@ I used to build websites with HTML, CSS, and JavaScript – so some programming 
 <tr>
 <td width="40%">
   
-### 🌬 Blueprint – Auto Luftreiniger  
+#### 🌬 Blueprint – Auto Luftreiniger  
 <a href="https://github.com/jayjojayson/blueprint-auto-luftreiniger">Automatic air purifier control based on air quality</a>  
 
 ![YAML](https://img.shields.io/badge/YAML-Blueprint-blueviolet)
@@ -160,7 +160,7 @@ I used to build websites with HTML, CSS, and JavaScript – so some programming 
 <tr>
 <td width="40%">
 
-### 💎 Crystal Cube  
+#### 💎 Crystal Cube  
 <a href="https://github.com/jayjojayson/HomeAssistant-Tools_Utilities_Gadgets/blob/main/ESP-Projekte%20-%20ESPHome/GeekMagic%20HelloCubic%20Crytal%20Cube%20-%20ESPHome/GeekMagic%20HelloCubic%20Crytal%20Cube.md">Control GeekMagic HelloCubic via ESPHome & Home Assistant</a>  
 
 ![ESPHome](https://img.shields.io/badge/ESPHome-IoT-green)
@@ -175,7 +175,7 @@ I used to build websites with HTML, CSS, and JavaScript – so some programming 
 <tr>
 <td width="40%">
 
-### 🖥 CYD Display  
+#### 🖥 CYD Display  
 <a href="https://github.com/jayjojayson/HomeAssistant-Tools_Utilities_Gadgets/blob/main/ESP-Projekte%20-%20ESPHome/CYD-Cheap-Yellow-Display%20for%20Home%20Assistant%20-%20ESPHome/CYD-Cheap-Yellow-Display_for_Home_Assistant.md">Cheap Yellow Display with Touch for Home Assistant</a>  
 
 ![ESPHome](https://img.shields.io/badge/ESPHome-Touch%20Display-green)
@@ -190,7 +190,7 @@ I used to build websites with HTML, CSS, and JavaScript – so some programming 
 <tr>
 <td width="40%">
 
-### 🖨 ESP3D WebUI  
+#### 🖨 ESP3D WebUI  
 <a href="https://github.com/jayjojayson/ESP3D-WEBUI">Web UI for ESP8266-based 3D printer controllers</a>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-WebUI-yellow)
