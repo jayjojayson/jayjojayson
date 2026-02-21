@@ -56,6 +56,23 @@ I used to build websites with HTML, CSS, and JavaScript – so some programming 
 <tr>
 <td width="40%">
   
+#### ⚡ Power Flux Card 
+<a href="https://github.com/jayjojayson/power-flux-card">Power Flow for HA</a> 
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![Lovelace](https://img.shields.io/badge/Lovelace-Custom%20Card-ff69b4)
+
+</td>
+<td width="60%" align="center">
+<img src="https://github.com/jayjojayson/power-flux-card/blob/main/docs/images/power-flux-card.jpg" width="35%"/>
+</td>
+</tr>
+<tr>
+<td width="40%">
+</tr>
+<tr>
+<td width="40%">
+  
 #### 📊 Detailed Charts Panel  
 <a href="https://github.com/jayjojayson/detailed-charts-panel">Advanced chart visualizations</a> 
 
@@ -71,7 +88,7 @@ I used to build websites with HTML, CSS, and JavaScript – so some programming 
 <td width="40%">
   
 #### ☀ Sun Position Card  
-<a href="https://github.com/jayjojayson/Sun-Position-Card">Custom Sun Position Card</a>  
+<a href="https://github.com/jayjojayson/Sun-Position-Card">Sun / Moon Position Card</a>  
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![Lovelace](https://img.shields.io/badge/Lovelace-Custom%20Card-ff69b4)
@@ -85,7 +102,7 @@ I used to build websites with HTML, CSS, and JavaScript – so some programming 
 <td width="40%">
   
 #### 🔋 BMS Battery Cells Card  
-<a href="https://github.com/jayjojayson/bms-battery-cells-card">Battery cell visualization</a>  
+<a href="https://github.com/jayjojayson/bms-battery-cells-card">Battery cells visualization</a>  
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![Lovelace](https://img.shields.io/badge/Lovelace-Custom%20Card-ff69b4)
@@ -183,7 +200,7 @@ I used to build websites with HTML, CSS, and JavaScript – so some programming 
 
 </td>
 <td width="60%" align="center">
-<img src="https://private-user-images.githubusercontent.com/2683358/430665253-9f2a5c66-43f8-4f06-9fd0-677b60147c6e.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzEwNjQxOTcsIm5iZiI6MTc3MTA2Mzg5NywicGF0aCI6Ii8yNjgzMzU4LzQzMDY2NTI1My05ZjJhNWM2Ni00M2Y4LTRmMDYtOWZkMC02NzdiNjAxNDdjNmUucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDIxNCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjAyMTRUMTAxMTM3WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MTRkOWMyYTIxMjRlNWVmN2M4MTUzNjRiODcwYWJlZjFhYjBhMjdhODUwOWE1NTRjNmNhMGY1ODEzYzlkZWNmOCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.HMiWprKMz5ZXRx5gm9MEQ3zZQkglWEDfB5XSuErygtI" width="40%"/>
+<img src="https://private-user-images.githubusercontent.com/2683358/430665253-9f2a5c66-43f8-4f06-9fd0-677b60147c6e.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE2NzMwMDksIm5iZiI6MTc3MTY3MjcwOSwicGF0aCI6Ii8yNjgzMzU4LzQzMDY2NTI1My05ZjJhNWM2Ni00M2Y4LTRmMDYtOWZkMC02NzdiNjAxNDdjNmUucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDIyMSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjAyMjFUMTExODI5WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NWRjOWY4MzQ3Yjc5ZGNlZWRlYzMyZWM3MjNmMDI1ZTVkMjMzMzBkYWE1MmNiZmU3ZTM4MTZlODBiYzc3M2ZlMyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.Abehe-MWv_9vcJEoH4rFwPm-kDBpeyXh3bO3TRx3ZU8" width="40%"/>
 </td>
 </tr>
 
