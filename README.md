@@ -8,6 +8,9 @@
 <img src="https://img.shields.io/github/followers/jayjojayson?label=Followers&style=flat-square" />
 <img src="https://img.shields.io/github/stars/jayjojayson?label=Stars&style=flat-square" />
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Ko--fi-Buy%20Me%20a%20Coffee-brightgreen?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/jayjojayson)
+[![Support](https://img.shields.io/badge/%20-Support%20Me-brightgreen?style=flat&logo=paypal&logoColor=white)](https://www.paypal.me/quadFlyerFW)
+
 </div>
 
 ---
@@ -271,7 +274,9 @@ If you like one of my projects or it has been helpful to you:
 📬 Questions? → Issues in the respective repositories are always welcome.
 </div>
 
+
 [![Support](https://img.shields.io/badge/%20-Support%20Me-steelblue?style=flat&logo=paypal&logoColor=white)](https://www.paypal.me/quadFlyerFW)
+[![Buy Me a Coffee](https://img.shields.io/badge/Ko--fi-Buy%20Me%20a%20Coffee-ff5e5b?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/jayjojayson)
 
 ---
 
