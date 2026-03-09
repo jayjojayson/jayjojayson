@@ -45,7 +45,7 @@ I used to build websites with HTML, CSS, and JavaScript – so some programming 
 <tr>
 <td width="40%">
   
-#### 🔋 Victrom VRM API  
+#### 🔋 Victron VRM API  
 <a href="https://github.com/jayjojayson/hass-victron-vrm-api">Victron API Integration</a>  
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
