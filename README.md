@@ -39,11 +39,28 @@ I used to build websites with HTML, CSS, and JavaScript – so some programming 
 
 ## 📦 Meine Projekte / My Projects   
 
-### 🔧 Home Assistant / Cards / Integrations  
+### 🔧 Home Assistant / Cards / Integrations / Apps
+
+
+
 
 <table>
 <tr>
 <td width="40%">
+  
+#### 📡 FRITZ!Portal  
+<a href="https://github.com/jayjojayson/FRITZ-Portal">FRITZ!Portal App/Add-On</a>  
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-App-41BDF5)
+
+</td>
+<td width="60%" align="center">
+<img src="https://github.com/jayjojayson/FRITZ-Portal/blob/main/fritz-portal/docs/images/screenshot.png" width="40%"/>
+</td>
+</tr>
+<tr>
+<td width="50%">
   
 #### 🔋 Victron VRM API  
 <a href="https://github.com/jayjojayson/hass-victron-vrm-api">Victron API Integration</a>  
