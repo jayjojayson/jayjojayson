@@ -43,7 +43,6 @@ I used to build websites with HTML, CSS, and JavaScript – so some programming 
 
 
 
-
 <table>
 <tr>
 <td width="40%">
@@ -56,7 +55,7 @@ I used to build websites with HTML, CSS, and JavaScript – so some programming 
 
 </td>
 <td width="60%" align="center">
-<img src="https://github.com/jayjojayson/FRITZ-Portal/blob/main/fritz-portal/docs/images/screenshot.png" width="40%"/>
+<img src="https://github.com/jayjojayson/FRITZ-Portal/blob/main/fritz-portal/docs/images/screenshot-fritzportal-lite.png" width="40%"/>
 </td>
 </tr>
 <tr>
