@@ -177,14 +177,19 @@ I used to build websites with HTML, CSS, and JavaScript – so some programming 
 <tr>
 <td width="40%">
   
+#### 🌬 Blueprint – Smarte Gartenbewässerung 
+<a href="https://github.com/jayjojayson/HA-smart-garden-irrigation">Smart Garden Irrigation</a>  
+
+![YAML](https://img.shields.io/badge/YAML-Blueprint-blueviolet)
+
+</td>
+<td width="40%">
+  
 #### 🌬 Blueprint – Auto Luftreiniger  
 <a href="https://github.com/jayjojayson/blueprint-auto-luftreiniger">Automatic air purifier control based on air quality</a>  
 
 ![YAML](https://img.shields.io/badge/YAML-Blueprint-blueviolet)
 
-</td>
-<td width="60%" align="center">
-—
 </td>
 </tr>
 </table>
