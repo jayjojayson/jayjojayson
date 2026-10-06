@@ -60,6 +60,20 @@ I used to build websites with HTML, CSS, and JavaScript – so some programming 
 </td>
 </tr>
 <tr>
+<td width="40%">
+
+#### 🛡 HA Percyta  
+<a href="https://github.com/jayjojayson/HA_Percyta">Permissions, Privacy & Data Scanner</a>  
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-Integration-41BDF5)
+
+</td>
+<td width="60%" align="center">
+<img src="https://raw.githubusercontent.com/jayjojayson/HA_Percyta/main/docs/example.png" width="40%"/>
+</td>
+</tr>
+<tr>
 <td width="50%">
   
 #### 🔋 Victron VRM API  
@@ -199,6 +213,20 @@ I used to build websites with HTML, CSS, and JavaScript – so some programming 
 ### 🔩 IoT / Hardware / ESPHome  
 
 <table>
+<tr>
+<td width="40%">
+
+#### 🖥 Guition ESP32-S3 Display  
+<a href="https://github.com/jayjojayson/Guition-ESP32-S3-HA-Display">4″ Raumdisplay (480×480) mit ESPHome & LVGL für Home Assistant</a>  
+
+![ESPHome](https://img.shields.io/badge/ESPHome-LVGL%20Display-green)
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-Interface-41BDF5)
+
+</td>
+<td width="60%" align="center">
+<img width="40%" src="https://github.com/user-attachments/assets/42aff703-ffe6-4202-a6b9-2d3cdce128ae" />
+</td>
+</tr>  
 <tr>
 <td width="40%">
 
