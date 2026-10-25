@@ -62,6 +62,20 @@ I used to build websites with HTML, CSS, and JavaScript – so some programming 
 <tr>
 <td width="40%">
 
+#### 🎨 HA Style Hub  
+<a href="https://github.com/jayjojayson/HA-Style-Hub">Customize your HA (Sidebar, Theme, Header, HA-Settings Pages)</a>  
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-Integration-41BDF5)
+
+</td>
+<td width="60%" align="center">
+<img src="https://github.com/jayjojayson/HA-Style-Hub/blob/main/docs/img/theme.png" width="40%"/>
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 #### 🛡 HA Percyta  
 <a href="https://github.com/jayjojayson/HA_Percyta">Permissions, Privacy & Data Scanner</a>  
 
