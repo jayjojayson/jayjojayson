@@ -117,9 +117,6 @@ I used to build websites with HTML, CSS, and JavaScript – so some programming 
 </tr>
 <tr>
 <td width="40%">
-</tr>
-<tr>
-<td width="40%">
   
 #### 📊 Detailed Charts Panel  
 <a href="https://github.com/jayjojayson/detailed-charts-panel">Advanced chart visualizations</a> 
@@ -158,6 +155,20 @@ I used to build websites with HTML, CSS, and JavaScript – so some programming 
 </td>
 <td width="60%" align="center">
 <img src="https://github.com/jayjojayson/bms-battery-cells-card/blob/main/docs/bms-battery-cells-card.png" width="40%"/>
+</td>
+</tr>
+<tr>
+<td width="40%">
+  
+#### 📝 Easy Notes Card 🆕  
+<a href="https://github.com/jayjojayson/easy-notes-card">Notes, reminders, board & graph view for HA</a>  
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![Lovelace](https://img.shields.io/badge/Lovelace-Custom%20Card-ff69b4)
+
+</td>
+<td width="60%" align="center">
+<img src="https://github.com/jayjojayson/easy-notes-card/blob/main/docs/easy-notes-card-2.png" width="40%"/>
 </td>
 </tr>
 <tr>
