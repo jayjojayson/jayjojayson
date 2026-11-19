@@ -809,6 +809,10 @@
       background: linear-gradient(180deg, var(--accent-yellow), #b8860b);
       color: var(--bg-deep);
     }
+    .flag-new {
+      background: linear-gradient(180deg, var(--accent-green), #1f7a32);
+      color: #fff;
+    }
 
     /* === FACTSHEETS CAROUSEL === */
     .factsheet-section {
@@ -1246,7 +1250,7 @@
     <!-- ========== HERO ========== -->
     <section class="hero" id="top">
       <div>
-        <span class="kick-badge" data-i18n="hero-kick-badge"><span class="dot"></span> Validiert &amp; abgenommen</span>
+        <span class="kick-badge"><span class="dot"></span> <span data-i18n="hero-kick-badge">Validiert &amp; abgenommen</span></span>
         <h1 data-i18n="hero-h1">
           Wir entwickeln Gadgets,<br>
           die <span class="accent">wie Spielerei wirken,</span><br>
@@ -1328,7 +1332,7 @@
     <section class="factsheet-section reveal" id="factsheets">
       <div class="sec-head">
         <div>
-          <h2><span class="emoji">📋</span> <span data-i18n="facts-heading">Gallerie</span></h2>
+          <h2><span class="emoji">📋</span> <span data-i18n="facts-heading">Galerie</span></h2>
           <p class="sec-sub" data-i18n="facts-sub"># jede Integration auf einen Blick — Klick für Vollbild</p>
         </div>
         <div class="fs-controls">
@@ -1362,7 +1366,7 @@
           <div class="card-body">
             <div class="badges">
               <span class="badge badge-lang">JavaScript</span>
-              <span class="badge badge-stars">★ 85</span>
+              <span class="badge badge-stars">★ 91</span>
             </div>
             <h3>⚡ Power Flux Card</h3>
             <p>Display your animated Power Flow with beautiful visualizations. Dashboard & Energy Flow-Karte.</p>
@@ -1378,7 +1382,7 @@
           <div class="card-body">
             <div class="badges">
               <span class="badge badge-lang">JavaScript</span>
-              <span class="badge badge-stars">★ 61</span>
+              <span class="badge badge-stars">★ 66</span>
             </div>
             <h3>🔆 Sun Position Card</h3>
             <p>Sun & Moon Card für Home Assistant mit wunderschönen Himmel-Animationen und Sonnenstand.</p>
@@ -1393,7 +1397,7 @@
           <div class="card-body">
             <div class="badges">
               <span class="badge badge-lang">JavaScript</span>
-              <span class="badge badge-stars">★ 49</span>
+              <span class="badge badge-stars">★ 50</span>
             </div>
             <h3>📉 Detailed Charts Panel</h3>
             <p>Diagramme (Balken, Linien, Torten) für Home Assistant Sidebar und Dashboard.</p>
@@ -1408,7 +1412,7 @@
           <div class="card-body">
             <div class="badges">
               <span class="badge badge-lang">JavaScript</span>
-              <span class="badge badge-stars">★ 42</span>
+              <span class="badge badge-stars">★ 44</span>
             </div>
             <h3>🔋 BMS Battery Cells Card</h3>
             <p>Visualisiere individuelle Zellen-Spannungen von Batteriespeichern (BMS) im Dashboard.</p>
@@ -1428,6 +1432,22 @@
             <h3>🏠 HA Homedashboard</h3>
             <p>Homedashboard Cards und Layout-Code für Home Assistant — minimalistisch & schön.</p>
             <div class="card-footer">🏠 Dashboard · 📐 Layout · 🎨 Minimal</div>
+          </div>
+        </a>
+
+        <a class="card" href="https://github.com/jayjojayson/easy-notes-card" target="_blank" rel="noopener"
+           style="--card-accent: #3fb950;">
+          <span class="flag flag-new" data-i18n="badge-new">🆕 NEU</span>
+          <div class="card-thumb"><img src="https://raw.githubusercontent.com/jayjojayson/easy-notes-card/main/docs/easy-notes-card-2.png" alt="easy-notes-card Vorschau" loading="lazy" style="object-position: top;" onerror="this.parentElement.style.display='none'"></div>
+          <div class="top-bar"></div>
+          <div class="card-body">
+            <div class="badges">
+              <span class="badge badge-lang">JavaScript</span>
+              <span class="badge badge-stars">★ 6</span>
+            </div>
+            <h3>📝 Easy Notes Card</h3>
+            <p>Notizen direkt im Dashboard — Markdown, Farben, Kategorien, Erinnerungen, Board- &amp; Graph-Ansicht. Ohne Helper, ohne YAML.</p>
+            <div class="card-footer">📝 Notes · ⏰ Reminder · 🗂 Board</div>
           </div>
         </a>
 
@@ -1459,36 +1479,6 @@
       </div>
       <div class="cards-grid">
 
-        <a class="card" href="https://github.com/jayjojayson/HA-Style-Hub" target="_blank" rel="noopener"
-           style="--card-accent: #f778ba;">
-          <div class="card-thumb"><img src="https://raw.githubusercontent.com/jayjojayson/HA-Style-Hub/main/docs/img/theme.png" alt="HA Style Hub Vorschau" loading="lazy" onerror="this.parentElement.style.display='none'"></div>
-          <div class="top-bar"></div>
-          <div class="card-body">
-            <div class="badges">
-              <span class="badge badge-lang">Integration</span>
-              <span class="badge badge-stars">★ 3</span>
-            </div>
-            <h3>🎨 HA Style Hub</h3>
-            <p>Gestalte dein Home Assistant per Panel: Sidebar, Theme, Header und HA-Settings-Seiten — mit Live-Vorschau, Export/Import und Verlauf.</p>
-            <div class="card-footer">🎨 Theme · 📐 Sidebar · 🧭 Header</div>
-          </div>
-        </a>
-
-        <a class="card" href="https://github.com/jayjojayson/HA_Percyta" target="_blank" rel="noopener"
-           style="--card-accent: #f85149;">
-          <div class="card-thumb"><img src="https://raw.githubusercontent.com/jayjojayson/HA_Percyta/main/docs/example.png" alt="HA Percyta Vorschau" loading="lazy" onerror="this.parentElement.style.display='none'"></div>
-          <div class="top-bar"></div>
-          <div class="card-body">
-            <div class="badges">
-              <span class="badge badge-lang">Integration</span>
-              <span class="badge badge-stars">★ 3</span>
-            </div>
-            <h3>🛡️ HA Percyta</h3>
-            <p>Scanner für Berechtigungen, Datenschutz &amp; Daten — prüft lokal Integrationen, Apps, Tokens und API-Keys und bewertet den Systemzugriff.</p>
-            <div class="card-footer">🔐 Privacy · 🛡 Risiko · 📊 Report</div>
-          </div>
-        </a>
-
         <a class="card popular" href="https://github.com/jayjojayson/FRITZ-Portal" target="_blank" rel="noopener"
            style="--card-accent: #58a6ff;">
           <span class="flag flag-star" data-i18n="badge-top">⭐ TOP</span>
@@ -1497,7 +1487,7 @@
           <div class="card-body">
             <div class="badges">
               <span class="badge badge-lang">TypeScript</span>
-              <span class="badge badge-stars">★ 80</span>
+              <span class="badge badge-stars">★ 91</span>
             </div>
             <h3>🌐 FRITZ!Portal</h3>
             <p>FRITZ!Portal Add-On für Home Assistant — bring deine AVM FRITZ!Box in dein Smart Home.</p>
@@ -1512,11 +1502,56 @@
           <div class="card-body">
             <div class="badges">
               <span class="badge badge-lang">JavaScript</span>
-              <span class="badge badge-stars">★ 23</span>
+              <span class="badge badge-stars">★ 25</span>
             </div>
             <h3>🔌 Victron VRM API</h3>
             <p>Victron Energy VRM API Integration für Home Assistant — Solar- & Energiemonitoring.</p>
             <div class="card-footer">☀️ Solar · ⚡ Energy · 🔋 VRM</div>
+          </div>
+        </a>
+
+        <a class="card" href="https://github.com/jayjojayson/HA-Style-Hub" target="_blank" rel="noopener"
+           style="--card-accent: #f778ba;">
+          <div class="card-thumb"><img src="https://raw.githubusercontent.com/jayjojayson/HA-Style-Hub/main/docs/img/theme.png" alt="HA Style Hub Vorschau" loading="lazy" onerror="this.parentElement.style.display='none'"></div>
+          <div class="top-bar"></div>
+          <div class="card-body">
+            <div class="badges">
+              <span class="badge badge-lang">Integration</span>
+              <span class="badge badge-stars">★ 9</span>
+            </div>
+            <h3>🎨 HA Style Hub</h3>
+            <p>Gestalte dein Home Assistant per Panel: Sidebar, Theme, Header und HA-Settings-Seiten — mit Live-Vorschau, Export/Import und Verlauf.</p>
+            <div class="card-footer">🎨 Theme · 📐 Sidebar · 🧭 Header</div>
+          </div>
+        </a>
+
+        <a class="card" href="https://github.com/jayjojayson/Hermes-Portal" target="_blank" rel="noopener"
+           style="--card-accent: #f0883e;">
+          <div class="card-thumb contain"><img src="https://raw.githubusercontent.com/jayjojayson/Hermes-Portal/main/hermes-portal-logo.png" alt="Hermes-Portal Vorschau" loading="lazy" onerror="this.parentElement.style.display='none'"></div>
+          <div class="top-bar"></div>
+          <div class="card-body">
+            <div class="badges">
+              <span class="badge badge-lang">HTML</span>
+              <span class="badge badge-stars">★ 7</span>
+            </div>
+            <h3>🔗 Hermes Portal</h3>
+            <p>GUI für Hermes Agent — Web-Interface zur Steuerung deines AI-Assistenten.</p>
+            <div class="card-footer">🤖 Hermes · 🌐 Web · 🧠 AI</div>
+          </div>
+        </a>
+
+        <a class="card" href="https://github.com/jayjojayson/HA_Percyta" target="_blank" rel="noopener"
+           style="--card-accent: #f85149;">
+          <div class="card-thumb"><img src="https://raw.githubusercontent.com/jayjojayson/HA_Percyta/main/docs/example.png" alt="HA Percyta Vorschau" loading="lazy" onerror="this.parentElement.style.display='none'"></div>
+          <div class="top-bar"></div>
+          <div class="card-body">
+            <div class="badges">
+              <span class="badge badge-lang">Integration</span>
+              <span class="badge badge-stars">★ 5</span>
+            </div>
+            <h3>🛡️ HA Percyta</h3>
+            <p>Scanner für Berechtigungen, Datenschutz &amp; Daten — prüft lokal Integrationen, Apps, Tokens und API-Keys und bewertet den Systemzugriff.</p>
+            <div class="card-footer">🔐 Privacy · 🛡 Risiko · 📊 Report</div>
           </div>
         </a>
 
@@ -1535,28 +1570,13 @@
           </div>
         </a>
 
-        <a class="card" href="https://github.com/jayjojayson/Hermes-Portal" target="_blank" rel="noopener"
-           style="--card-accent: #f0883e;">
-          <div class="card-thumb contain"><img src="https://raw.githubusercontent.com/jayjojayson/Hermes-Portal/main/hermes-portal-logo.png" alt="Hermes-Portal Vorschau" loading="lazy" onerror="this.parentElement.style.display='none'"></div>
-          <div class="top-bar"></div>
-          <div class="card-body">
-            <div class="badges">
-              <span class="badge badge-lang">HTML</span>
-              <span class="badge badge-stars">★ 6</span>
-            </div>
-            <h3>🔗 Hermes Portal</h3>
-            <p>GUI für Hermes Agent — Web-Interface zur Steuerung deines AI-Assistenten.</p>
-            <div class="card-footer">🤖 Hermes · 🌐 Web · 🧠 AI</div>
-          </div>
-        </a>
-
         <a class="card" href="https://github.com/jayjojayson/HA-ThemeManager" target="_blank" rel="noopener"
            style="--card-accent: #41bdf5;">
           <div class="top-bar"></div>
           <div class="card-body">
             <div class="badges">
               <span class="badge badge-lang">JavaScript</span>
-              <span class="badge badge-stars">★ 1</span>
+              <span class="badge badge-stars">★ 2</span>
             </div>
             <h3>🎨 HA ThemeManager</h3>
             <p>Home Assistant Theme Manager — Themes installieren, wechseln und verwalten.</p>
@@ -1597,7 +1617,7 @@
           <div class="card-body">
             <div class="badges">
               <span class="badge badge-lang">Blueprint</span>
-              <span class="badge badge-stars">★ 3</span>
+              <span class="badge badge-stars">★ 4</span>
             </div>
             <h3>💧 Smart Garden Irrigation</h3>
             <p>Blueprint für intelligente Gartenbewässerung in Home Assistant.</p>
@@ -1632,21 +1652,6 @@
       </div>
       <div class="cards-grid">
 
-        <a class="card" href="https://github.com/jayjojayson/Guition-ESP32-S3-HA-Display" target="_blank" rel="noopener"
-           style="--card-accent: #39c5cf;">
-          <div class="card-thumb"><img src="https://github.com/user-attachments/assets/42aff703-ffe6-4202-a6b9-2d3cdce128ae" alt="Guition ESP32-S3 Display Vorschau" loading="lazy" onerror="this.parentElement.style.display='none'"></div>
-          <div class="top-bar"></div>
-          <div class="card-body">
-            <div class="badges">
-              <span class="badge badge-lang">ESPHome</span>
-              <span class="badge badge-stars">★ 3</span>
-            </div>
-            <h3>🖥️ Guition ESP32-S3 Display</h3>
-            <p>4″ Raumdisplay (480×480) für Home Assistant mit ESPHome &amp; LVGL — Licht, Wetter, Energie und Heizung per Touch.</p>
-            <div class="card-footer">🖥 LVGL · 💡 Licht · 🌡 Heizung</div>
-          </div>
-        </a>
-
         <a class="card" href="https://github.com/jayjojayson/HomeAssistant-Tools_Utilities_Gadgets/tree/main/ESP-Projekte%20-%20ESPHome/GeekMagic%20HelloCubic%20Crytal%20Cube%20-%20ESPHome" target="_blank" rel="noopener"
            style="--card-accent: #bc8cff;">
           <div class="card-thumb"><img src="https://raw.githubusercontent.com/jayjojayson/HomeAssistant-Tools_Utilities_Gadgets/main/ESP-Projekte%20-%20ESPHome/GeekMagic%20HelloCubic%20Crytal%20Cube%20-%20ESPHome/images/geekmagic-crystal-cube.jpeg" alt="Crystal Cube Vorschau" loading="lazy" onerror="this.parentElement.style.display='none'"></div>
@@ -1674,6 +1679,21 @@
             <h3>📱 Cheap Yellow Display</h3>
             <p>ESP32C3 mit Touchscreen — Custom Display für Home Assistant mit zwei konfigurierbaren Seiten.</p>
             <div class="card-footer">📱 Touch · 💛 Yellow · 🏠 HA</div>
+          </div>
+        </a>
+
+        <a class="card" href="https://github.com/jayjojayson/Guition-ESP32-S3-HA-Display" target="_blank" rel="noopener"
+           style="--card-accent: #39c5cf;">
+          <div class="card-thumb"><img src="https://github.com/user-attachments/assets/42aff703-ffe6-4202-a6b9-2d3cdce128ae" alt="Guition ESP32-S3 Display Vorschau" loading="lazy" onerror="this.parentElement.style.display='none'"></div>
+          <div class="top-bar"></div>
+          <div class="card-body">
+            <div class="badges">
+              <span class="badge badge-lang">ESPHome</span>
+              <span class="badge badge-stars">★ 4</span>
+            </div>
+            <h3>🖥️ Guition ESP32-S3 Display</h3>
+            <p>4″ Raumdisplay (480×480) für Home Assistant mit ESPHome &amp; LVGL — Licht, Wetter, Energie und Heizung per Touch.</p>
+            <div class="card-footer">🖥 LVGL · 💡 Licht · 🌡 Heizung</div>
           </div>
         </a>
 
@@ -1827,6 +1847,23 @@
 
   <!-- ========== SCRIPTS ========== -->
   <script>
+  // ============ SORTIERUNG NACH STERNEN ============
+  function sortCardsByStars() {
+    const starsOf = card => {
+      const b = card.querySelector('.badge-stars');
+      const m = b && b.textContent.match(/\d+/);
+      return m ? parseInt(m[0], 10) : -1; // ohne Sternezahl ans Ende
+    };
+    document.querySelectorAll('.cards-grid').forEach(grid => {
+      const cards = Array.from(grid.children).filter(el => el.classList.contains('card'));
+      cards
+        .map((card, i) => ({ card, i, s: starsOf(card) }))
+        .sort((a, b) => (b.s - a.s) || (a.i - b.i)) // bei Gleichstand Reihenfolge behalten
+        .forEach(({ card }) => grid.appendChild(card));
+    });
+  }
+  sortCardsByStars();
+
   // ============ GITHUB API — Live Stats ============
   (function() {
     const API = 'https://api.github.com/users/jayjojayson';
@@ -1847,6 +1884,20 @@
         document.getElementById('stat-repos').textContent = count;
         document.getElementById('stat-stars').textContent = stars;
         document.getElementById('stat-forks').textContent = forks;
+
+        // Sterne auf den Projektkarten live aus GitHub übernehmen
+        const starMap = {};
+        repos.forEach(r => { starMap[r.name.toLowerCase()] = r.stargazers_count; });
+        document.querySelectorAll('a.card[href*="github.com/jayjojayson/"]').forEach(card => {
+          const m = card.getAttribute('href').match(/github\.com\/jayjojayson\/([^\/?#]+)/i);
+          const badge = card.querySelector('.badge-stars');
+          if (!m || !badge) return;
+          const s = starMap[m[1].toLowerCase()];
+          if (typeof s === 'number') badge.textContent = '★ ' + s;
+        });
+
+        // Karten je Abschnitt nach Sternen sortieren (meiste zuerst)
+        sortCardsByStars();
       }).catch(() => {
         ['stat-repos','stat-stars','stat-forks'].forEach(id => {
           document.getElementById(id).textContent = '—';
@@ -1877,6 +1928,7 @@
   // ============ FACTSHEETS STACK CAROUSEL ============
   (function() {
     const items = [
+      { img: 'https://github.com/jayjojayson/easy-notes-card/raw/main/docs/easy-notes-card-screenshot.png', title: 'Easy Notes Card' },
       { img: 'https://github.com/jayjojayson/HA-Style-Hub/raw/main/docs/img/theme.png', title: 'HA Style Hub' },
       { img: 'https://github.com/jayjojayson/HA_Percyta/raw/main/docs/example.png', title: 'HA Percyta' },
       { img: 'https://github.com/jayjojayson/power-flux-card/raw/main/docs/images/power-flux-card.jpg', title: 'Power Flux Card' },
@@ -2068,7 +2120,7 @@
     const translations = {
       de: {
         'nav-home': 'Home',
-        'nav-factsheets': 'Gallerie',
+        'nav-factsheets': 'Galerie',
         'nav-cards': 'Cards',
         'nav-integrations': 'Integrations',
         'nav-blueprints': 'Blueprints',
@@ -2086,7 +2138,7 @@
         'stat-followers': 'Followers',
         'about-show-more': 'Mehr anzeigen',
         'about-show-less': 'Weniger anzeigen',
-        'facts-heading': 'Gallerie',
+        'facts-heading': 'Galerie',
         'facts-sub': '# jede Integration auf einen Blick — Klick für Vollbild',
         'cards-heading': 'HA Dashboard Cards',
         'cards-sub': '# Open Source Custom Cards auf GitHub',
@@ -2107,6 +2159,7 @@
         'badge-hot': '🔥 HEISS',
         'badge-popular': '⭐ POPULAR',
         'badge-top': '⭐ TOP',
+        'badge-new': '🆕 NEU',
         'footer-motto': '<a href="https://github.com/jayjojayson" target="_blank">GitHub</a> · <a href="https://ko-fi.com/jayjojayson" target="_blank">Ko-fi</a><br>Built with ❤️ ©2026'
       },
       en: {
@@ -2129,7 +2182,7 @@
         'stat-followers': 'Followers',
         'about-show-more': 'Show more',
         'about-show-less': 'Show less',
-        'facts-heading': 'Gallerie',
+        'facts-heading': 'Gallery',
         'facts-sub': '# every integration at a glance — click for fullscreen',
         'cards-heading': 'HA Dashboard Cards',
         'cards-sub': '# Open Source Custom Cards on GitHub',
@@ -2150,6 +2203,7 @@
         'badge-hot': '🔥 HOT',
         'badge-popular': '⭐ POPULAR',
         'badge-top': '⭐ TOP',
+        'badge-new': '🆕 NEW',
         'footer-motto': '<a href="https://github.com/jayjojayson" target="_blank">GitHub</a> · <a href="https://ko-fi.com/jayjojayson" target="_blank">Ko-fi</a><br>Built with ❤️ ©2026'
       }
     };
